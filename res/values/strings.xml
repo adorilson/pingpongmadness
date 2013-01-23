@@ -4,4 +4,5 @@
     <string name="app_name">Pingpongmadness</string>
     <string name="mode_tutorial">Tutorial</string>
 	<string name="mode_level">Level</string>
+	<string name="points">pontos</string>
 </resources>
